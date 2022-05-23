@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AgenciaViaje</string>
+    <string name="nombreUno">Nombre:</string>
+    <string name="numeroBoletoUno">Numero de boleto:</string>
+    <string name="destinoUno">Destino:</string>
+    <string name="tipoUno">Tipo de viaje:</string>
+    <string name="precioUno">Precio:</string>
+    <string name="fechaUno">Fecha de viaje:</string>
+    <string name="edadUno">Edad:</string>
+    <string name="viaje">Agendar viaje</string>
+    <string name="regresar">Finalizar</string>
+    <string-array name="destinos">
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Australia</item>
+        <item>Alemania</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Marruecos</item>
+        <item>Malasia</item>
+    </string-array>
+    <string-array name="tiposBoleto">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
